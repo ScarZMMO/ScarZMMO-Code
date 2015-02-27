@@ -1,2 +1,0 @@
-# ScarZMMO-Code
-ScarZMMO Code
